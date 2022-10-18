@@ -8,14 +8,14 @@
     <!-- footer -------------------------------------------- -->
     <mj-section mj-class="section-footer" css-class="footer">
       <mj-column>
-        <mj-text align="center"><b>ООО "БИДЗААР"</b><br/><a href="tel:+74951208133">+7 (495) 120-81-33</a> • <a href="mailto:support@bidzaar.com">support@bidzaar.com</a> • <a href="https://bidzaar.com">bidzaar.com</a></span>
+        <mj-text align="center"><b>ООО "ZAKUPKI.KZ ЭЛЕКТРОННАЯ ТОРГОВАЯ ПЛОЩАДКА"</b><br/><a href="tel:+77082128776">+77082128776</a> • <a href="mailto:Info.etp@zakupki.kz">Info.etp@zakupki.kz</a> • <a href="https://etp.zakupki.kz">etp.zakupki.kz</a></span>
         </mj-text>        
       </mj-column>
     </mj-section>
     <mj-section mj-class="section-footer" css-class="footer" padding-top="0">
       <mj-column>
         <mj-text align="center">
-          <span class="smallest">Вы получили это сообщение в соответствии с пользовательским соглашением Bidzaar.</span>
+          <span class="smallest">Вы получили это сообщение в соответствии с пользовательским соглашением ZAKUPKI.KZ ЭЛЕКТРОННАЯ ТОРГОВАЯ ПЛОЩАДКА.</span>
           @PixelContext.Html
         </mj-text>
       </mj-column>
