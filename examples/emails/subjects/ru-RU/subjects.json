@@ -4,7 +4,7 @@
   "NotifyWhenUserApproved": "🔴 Добро пожаловать в @CompanyContext.CompanyName",
   "UserInvited": "🔴 @CompanyContext.CompanyName приглашает на ZAKUPKI.KZ ЭЛЕКТРОННАЯ ТОРГОВАЯ ПЛОЩАДКА",
   "NotifyDeletedUser": "🔴 Вас удалили из @CompanyContext.CompanyName",
-  "NotifyUnInvitedUser": "🔴 @CompanyContext.CompanyName отменяет приглашение на Bidzaar",
+  "NotifyUnInvitedUser": "🔴 @CompanyContext.CompanyName отменяет приглашение на ZAKUPKI.KZ ЭЛЕКТРОННАЯ ТОРГОВАЯ ПЛОЩАДКА",
   "NotifyRejectedUser": "🔴 Заявка в @CompanyContext.CompanyName отклонена",
   "UsersUndeleted": "🔴 Возобновление полномочий в @CompanyContext.CompanyName",
   "CompanyDeletedNotification": "🔴 @CompanyContext.CompanyName покинула ZAKUPKI.KZ ЭЛЕКТРОННАЯ ТОРГОВАЯ ПЛОЩАДКА",
