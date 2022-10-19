@@ -20,7 +20,7 @@
             <b>Комментарий Заказчика:</b> @ProcedureResultContext.Reason</p>
             
           <p>Есть вопросы? Свяжитесь с Заказчиком в чате запроса.</p>
-          <p class="small"><br />Благодарим вас за участие!<br/> На Bidzaar вы можете <a href="@ConfigurationContext.BaseUrl/procedures/all">найти другие интересные запросы</a>.</p>
+          <p class="small"><br />Благодарим вас за участие!<br/> На ZAKUPKI.KZ ЭЛЕКТРОННАЯ ТОРГОВАЯ ПЛОЩАДКА вы можете <a href="@ConfigurationContext.BaseUrl/procedures/all">найти другие интересные запросы</a>.</p>
         </mj-text>
       </mj-column>
     </mj-section>
