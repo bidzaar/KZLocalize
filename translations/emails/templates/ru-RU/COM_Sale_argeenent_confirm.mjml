@@ -12,13 +12,13 @@
       <mj-column>
         <mj-text>
           <h1>Здравствуйте!</h1>
-          <!--<p>Это Алексей из Bidzaar.</p>-->
+          <!--<p>Это Алексей из ZAKUPKI.KZ ЭЛЕКТРОННАЯ ТОРГОВАЯ ПЛОЩАДКА.</p>-->
           <p style="font-size: 20px; font-weight: 600">Принято согласие с условиями и положениями дополнительного пользовательского соглашения от компании "@UserAgreementSignAddedContext.CompanyShortName"</p>
           <p>Данные о компании:</p>
           <ul>
-            <li class="small">Код компании на bidzaar: @UserAgreementSignAddedContext.CompanyBidzaarNumber</li>
+            <li class="small">Код компании на ZAKUPKI.KZ ЭЛЕКТРОННАЯ ТОРГОВАЯ ПЛОЩАДКА: @UserAgreementSignAddedContext.CompanyBidzaarNumber</li>
             <li class="small">Наименование компании: @UserAgreementSignAddedContext.CompanyShortName</li>
-            <li class="small">ИНН компании / ИП: @UserAgreementSignAddedContext.CompanyUniqueNumber</li>
+            <li class="small">БИН компании /ИИН ИП: @UserAgreementSignAddedContext.CompanyUniqueNumber</li>
           </ul>
           <p>Пользователь:</p>
           <ul>
@@ -27,8 +27,8 @@
           </ul>
         </mj-text>
         <mj-text>
-          <p class="small">Если данные были заполнены неверно, то ответьте на это письмо или напишите на <a href='mailto:support@bidzaar.com'>support@bidzaar.com</a></p>
-          <p class="small"><span class="small">Торговая площадка <a href="https://bidzaar.com/?utm_source=support&utm_medium=email&utm_campaign=dodo_user_agreement" style="font-weight:400">Bidzaar</a>
+          <p class="small">Если данные были заполнены неверно, то ответьте на это письмо или напишите на <a href='mailto:Info.etp@zakupki.kz'>Info.etp@zakupki.kz</a></p>
+          <p class="small"><span class="small">Торговая площадка <a href="https://etp.zakupki.kz/?utm_source=support&utm_medium=email&utm_campaign=dodo_user_agreement" style="font-weight:400">ZAKUPKI.KZ ЭЛЕКТРОННАЯ ТОРГОВАЯ ПЛОЩАДКА</a>
             </span></p>
         </mj-text>
       </mj-column>
