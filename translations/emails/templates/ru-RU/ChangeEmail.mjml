@@ -14,11 +14,11 @@
       <mj-column>
         <mj-text>
           <h1>Изменение адреса эл. почты</h1>
-          <p class="mb0">Подтвердите изменение адреса эл. почты на <b>@ChangeEmailPrecontext.NewEmail</b>.</p><p>Указанная почта будет использоваться для входа на Bidzaar и получения уведомлений.</p>
+          <p class="mb0">Подтвердите изменение адреса эл. почты на <b>@ChangeEmailPrecontext.NewEmail</b>.</p><p>Указанная почта будет использоваться для входа на ZAKUPKI.KZ ЭЛЕКТРОННАЯ ТОРГОВАЯ ПЛОЩАДКА и получения уведомлений.</p>
         </mj-text>
         <mj-button href="@ConfigurationContext.BaseUrl/login/confirm-changing?@ChangeEmailPrecontext.UrlParams">Подтвердить изменение почты</mj-button>
         <mj-text>          
-          <p class="small">Если Вы не регистрировались на Bidzaar и считаете, что получили это письмо по ошибке, просто игнорируйте это письмо!</p>
+          <p class="small">Если Вы не регистрировались на ZAKUPKI.KZ ЭЛЕКТРОННАЯ ТОРГОВАЯ ПЛОЩАДКА и считаете, что получили это письмо по ошибке, просто игнорируйте это письмо!</p>
         </mj-text>
       </mj-column>
     </mj-section>
