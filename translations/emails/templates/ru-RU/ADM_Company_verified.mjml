@@ -3,7 +3,7 @@
 Тема: Ваша компания – проверенный поставщик
 Получатель: все сотрудники компании
 
-Админ Бидзаар установил статус компании "Прорверенный поставщик"
+Админ ZAKUPKI.KZ ЭЛЕКТРОННАЯ ТОРГОВАЯ ПЛОЩАДКА установил статус компании "Прорверенный поставщик"
 -->
   <mj-include path="./__tpl/__head.mjml" />
   <mj-body>
@@ -20,16 +20,16 @@
     <mj-section mj-class="section-intro">
       <mj-column>
         <mj-text>
-          <h2>Теперь @TargetContext.CompanyName – проверенная компания на Bidzaar</h2>
+          <h2>Теперь @TargetContext.CompanyName – проверенная компания на ZAKUPKI.KZ ЭЛЕКТРОННАЯ ТОРГОВАЯ ПЛОЩАДКА</h2>
           <p><br /><b>Что это означает?</b></p>
           <ul>
-            <li> Компания выгодно выделяется в списке поставщиков (<img src="https://bidzaar.com/landing/wp-content/uploads/2020/10/verified.png" style="vertical-align:top" /> – <span class="smallest">вот так</span>) и поднимается в результатах поиска </li>
+            <li> Компания выгодно выделяется в списке поставщиков (<img src="https://etp.zakupki.kz/landing/wp-content/uploads/2020/10/verified.png" style="vertical-align:top" /> – <span class="smallest">вот так</span>) и поднимается в результатах поиска </li>
             <li> Повышается деловая репутация и рейтинг активности компании</li>
             <li> Возможность участвовать в запросах только для проверенных поставщиков</li>
           </ul>
           <p>Желаем хорошей работы и новых побед на Bidzaar!</p>
         </mj-text>
-        <mj-button href="@ConfigurationContext.BaseUrl">Перейти на Bidzaar</mj-button>
+        <mj-button href="@ConfigurationContext.BaseUrl">Перейти на ZAKUPKI.KZ ЭЛЕКТРОННАЯ ТОРГОВАЯ ПЛОЩАДКА</mj-button>
       </mj-column>
     </mj-section>
     <mj-include path="./__tpl/__spacer.mjml" />
