@@ -14,9 +14,9 @@
       <mj-column css-class="bgimage bgimage-ok" padding-bottom="20px">
         <mj-text mj-class="text-primary">
           <h1>@TargetContext.FirstName, ваши полномочия восстановлены </h1>
-          <p class="p75">Ваша деятельность в качестве сотрудника <b>@CompanyContext.CompanyName</b> на Bidzaar возобновлена :)</p>
+          <p class="p75">Ваша деятельность в качестве сотрудника <b>@CompanyContext.CompanyName</b> на ZAKUPKI.KZ ЭЛЕКТРОННАЯ ТОРГОВАЯ ПЛОЩАДКА возобновлена :)</p>
         </mj-text>
-        <mj-button href="@ConfigurationContext.BaseUrl">Продолжить работу на Bidzaar</mj-button>
+        <mj-button href="@ConfigurationContext.BaseUrl">Продолжить работу на ZAKUPKI.KZ ЭЛЕКТРОННАЯ ТОРГОВАЯ ПЛОЩАДКА</mj-button>
       </mj-column>
     </mj-section>
     <mj-include path="./__tpl/__spacer.mjml" />
