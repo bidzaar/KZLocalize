@@ -34,14 +34,14 @@
     <mj-section mj-class="section-hint">
       <mj-column>
         <mj-text>
-          <p class="small mb05"><b>Запрос проводится на площадке Bidzaar.</b> Преимущества Bidzaar:</p>
+          <p class="small mb05"><b>Запрос проводится на площадке ZAKUPKI.KZ ЭЛЕКТРОННАЯ ТОРГОВАЯ ПЛОЩАДКА.</b> Преимущества ZAKUPKI.KZ ЭЛЕКТРОННАЯ ТОРГОВАЯ ПЛОЩАДКА:</p>
           <ol class="small">
             <li>Быстрая регистрация, без аккредитации и ЭЦП</li>
             <li>Бесплатное участие в запросах</li>
             <li>Проводят закупки более 100 крупных и средних коммерческих компаний </li>
           </ol>
           <p class="small">
-            <a href="@ConfigurationContext.BaseUrl/procedures/public?utm_source=affiliate&utm_medium=email&utm_campaign=tender&utm_term=procedures_public&utm_content=@ProcedureContext.ProcedureOwnerCompanyNumber">Посмотреть текущие запросы на Bidzaar ►</a>
+            <a href="@ConfigurationContext.BaseUrl/procedures/public?utm_source=affiliate&utm_medium=email&utm_campaign=tender&utm_term=procedures_public&utm_content=@ProcedureContext.ProcedureOwnerCompanyNumber">Посмотреть текущие запросы на ZAKUPKI.KZ ЭЛЕКТРОННАЯ ТОРГОВАЯ ПЛОЩАДКА ►</a>
           </p>
         </mj-text>
       </mj-column>
