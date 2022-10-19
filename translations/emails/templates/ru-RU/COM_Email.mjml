@@ -13,7 +13,7 @@
         <mj-text>
           <h1>Здравствуйте, @TargetContext.FirstName!</h1>
           <p style="white-space: pre-line; margin-bottom: 32px">@EmailPrecontext.Message</p>
-          <p class="small">Команда Bidzaar 💗</p>
+          <p class="small">Команда ZAKUPKI.KZ ЭЛЕКТРОННАЯ ТОРГОВАЯ ПЛОЩАДКА 💗</p>
         </mj-text>
       </mj-column>
     </mj-section>
