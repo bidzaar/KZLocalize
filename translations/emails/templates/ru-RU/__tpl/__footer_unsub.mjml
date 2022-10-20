@@ -1,0 +1,21 @@
+    <!-- spacer -------------------------------------------- -->
+    <!--<mj-section padding-top="0" padding-bottom="0">
+      <mj-column>
+        <mj-spacer height="40px" />
+      </mj-column>
+    </mj-section>
+    <!-- /spacer -->
+    <!-- footer -------------------------------------------- -->
+    <mj-section mj-class="section-footer" css-class="footer">
+      <mj-column>
+        <mj-text align="center"><b>ТОО "ZAKUPKI.KZ ЭЛЕКТРОННАЯ ТОРГОВАЯ ПЛОЩАДКА"</b><br/><a href="tel:+77082128776">+7 708 212 87 76</a> • <a href="mailto:Info.etp@zakupki.kz">Info.etp@zakupki.kz</a> • <a href="https://etp.zakupki.kz">etp.zakupki.kz</a></span>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="section-footer" css-class="footer" padding-top="0">
+      <mj-column>
+        <mj-text align="center">
+          <span class="smallest">Вы получили это сообщение в соответствии с пользовательским соглашением ZAKUPKI.KZ ЭЛЕКТРОННАЯ ТОРГОВАЯ ПЛОЩАДКА. <a href="@ConfigurationContext.BaseUrl/unsubscribe/@TokenContext.Token/@ResultTargetPrecontext.Email">Настроить уведомления</a></span> @PixelContext.Html
+        </mj-text>
+      </mj-column>
+    </mj-section>
