@@ -230,13 +230,13 @@
   "ReviewCompanyNotification": [
     {
       "Template": "COM_Review_company",
-      "Target": "BidzaarEmailTarget"
+      "Target": "etp.zakupki.kzEmailTarget"
     }
   ],
   "ErrorNotification": [
     {
       "Template": "ERROR_notification",
-      "Target": "BidzaarEmailTarget, AlertEmailTarget"
+      "Target": "etp.zakupki.kzEmailTarget, AlertEmailTarget"
     }
   ],
   "StartRoundProcedureEvent": [
@@ -458,7 +458,7 @@
   "VerifiedOnlyChangedOnPublishEvent": [
     {
       "Template": "RFX_Procedure_verified_only_changed_alert",
-      "Target": "BidzaarCallCenterOperators"
+      "Target": "etp.zakupki.kzCallCenterOperators"
     }
   ],
   "UserAgreementSignSaleNotification": [
