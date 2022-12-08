@@ -51,7 +51,7 @@
         "prolongation": "(до {{ date}})",
         "reports": {
           "comparison": "Таблица сравнения",
-          "notice": "Извещение",
+          "notice": "Объявление",
           "changes": "Изменения"
         },
         "completed": {

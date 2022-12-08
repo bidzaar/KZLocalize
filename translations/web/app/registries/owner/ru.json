@@ -407,7 +407,7 @@
           "from_date": "С указанной даты",
           "cancel": "Отмена",
           "submit": "Применить",
-          "timezone": "МСК 00:01",
+          "timezone": "ALMT 00:01",
           "immediately_snack": "Анкета введена в действие",
           "from_date_snack": "Анкета вступит в силу с указанной даты",
           "errors": {
